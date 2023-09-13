@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CURSOR_Homework21/static/css/main.25a38637.css",
+    "main.js": "/CURSOR_Homework21/static/js/main.dd9a0f09.js",
+    "static/js/787.8cb076a6.chunk.js": "/CURSOR_Homework21/static/js/787.8cb076a6.chunk.js",
+    "static/media/download-svgrepo-com.svg": "/CURSOR_Homework21/static/media/download-svgrepo-com.c2dd5481370c1a98ba9c38dd63326d38.svg",
+    "static/media/check-badge.svg": "/CURSOR_Homework21/static/media/check-badge.65ae038867fe391d97184eb00b4f9c61.svg",
+    "static/media/retweet-2-svgrepo-com.svg": "/CURSOR_Homework21/static/media/retweet-2-svgrepo-com.4f5c292ccd7695bd27138cf616bf61d7.svg",
+    "static/media/notification.svg": "/CURSOR_Homework21/static/media/notification.ae6b7509e2fd336d7bc590989bf8028e.svg",
+    "static/media/heart-svgrepo-com.svg": "/CURSOR_Homework21/static/media/heart-svgrepo-com.4940041c1ca59254b30323b37ca2fc16.svg",
+    "index.html": "/CURSOR_Homework21/index.html",
+    "main.25a38637.css.map": "/CURSOR_Homework21/static/css/main.25a38637.css.map",
+    "main.dd9a0f09.js.map": "/CURSOR_Homework21/static/js/main.dd9a0f09.js.map",
+    "787.8cb076a6.chunk.js.map": "/CURSOR_Homework21/static/js/787.8cb076a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25a38637.css",
+    "static/js/main.dd9a0f09.js"
+  ]
+}
